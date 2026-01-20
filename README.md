@@ -1,7 +1,5 @@
 # Hi, I'm Berke Nacak 👋
 
----
-
 ### 🚀 About Me
 
 I am a mobile engineer passionate about **Software Architecture**, **Clean Code**, and **System Design**.
