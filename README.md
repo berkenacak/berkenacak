@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**berkenacak/berkenacak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Berke Nacak 👋
 
-Here are some ideas to get you started:
+###  iOS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable mobile banking experiences at **Akbank** (via **OBSS**).
+
+---
+
+### 🚀 About Me
+
+I am a mobile engineer passionate about **Software Architecture**, **Clean Code**, and **System Design**.
+
+I focus on building maintainable, testable, and high-performance iOS applications using both **UIKit** and **SwiftUI**. My goal is to bridge the gap between complex engineering principles and practical mobile development.
+
+</div>
