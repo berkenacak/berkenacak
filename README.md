@@ -1,9 +1,5 @@
 # Hi, I'm Berke Nacak 👋
 
-###  iOS Developer
-
-Building scalable mobile banking experiences at **Akbank** (via **OBSS**).
-
 ---
 
 ### 🚀 About Me
